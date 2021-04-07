@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nrl-fantasy/static/css/main.e778dccb.chunk.css",
+    "main.js": "/nrl-fantasy/static/js/main.4e3a4738.chunk.js",
+    "main.js.map": "/nrl-fantasy/static/js/main.4e3a4738.chunk.js.map",
+    "runtime-main.js": "/nrl-fantasy/static/js/runtime-main.4f651994.js",
+    "runtime-main.js.map": "/nrl-fantasy/static/js/runtime-main.4f651994.js.map",
+    "static/js/2.242c2c01.chunk.js": "/nrl-fantasy/static/js/2.242c2c01.chunk.js",
+    "static/js/2.242c2c01.chunk.js.map": "/nrl-fantasy/static/js/2.242c2c01.chunk.js.map",
+    "static/js/3.14c3f66b.chunk.js": "/nrl-fantasy/static/js/3.14c3f66b.chunk.js",
+    "static/js/3.14c3f66b.chunk.js.map": "/nrl-fantasy/static/js/3.14c3f66b.chunk.js.map",
+    "index.html": "/nrl-fantasy/index.html",
+    "static/css/main.e778dccb.chunk.css.map": "/nrl-fantasy/static/css/main.e778dccb.chunk.css.map",
+    "static/js/2.242c2c01.chunk.js.LICENSE.txt": "/nrl-fantasy/static/js/2.242c2c01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f651994.js",
+    "static/js/2.242c2c01.chunk.js",
+    "static/css/main.e778dccb.chunk.css",
+    "static/js/main.4e3a4738.chunk.js"
+  ]
+}
