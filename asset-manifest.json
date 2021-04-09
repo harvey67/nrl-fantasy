@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nrl-fantasy/static/css/main.10e0e46b.chunk.css",
+    "main.css": "/nrl-fantasy/static/css/main.2bc3d369.chunk.css",
     "main.js": "/nrl-fantasy/static/js/main.5e17940b.chunk.js",
     "main.js.map": "/nrl-fantasy/static/js/main.5e17940b.chunk.js.map",
     "runtime-main.js": "/nrl-fantasy/static/js/runtime-main.34770c98.js",
@@ -10,13 +10,13 @@
     "static/js/3.0e71ee69.chunk.js": "/nrl-fantasy/static/js/3.0e71ee69.chunk.js",
     "static/js/3.0e71ee69.chunk.js.map": "/nrl-fantasy/static/js/3.0e71ee69.chunk.js.map",
     "index.html": "/nrl-fantasy/index.html",
-    "static/css/main.10e0e46b.chunk.css.map": "/nrl-fantasy/static/css/main.10e0e46b.chunk.css.map",
+    "static/css/main.2bc3d369.chunk.css.map": "/nrl-fantasy/static/css/main.2bc3d369.chunk.css.map",
     "static/js/2.548d8ad7.chunk.js.LICENSE.txt": "/nrl-fantasy/static/js/2.548d8ad7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.34770c98.js",
     "static/js/2.548d8ad7.chunk.js",
-    "static/css/main.10e0e46b.chunk.css",
+    "static/css/main.2bc3d369.chunk.css",
     "static/js/main.5e17940b.chunk.js"
   ]
 }
